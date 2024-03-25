@@ -1,0 +1,1 @@
+I will eventually add a bunch of information to this file as a quick reference for myself...and any others who would like access to this boilerplate.
